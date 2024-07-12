@@ -1,5 +1,5 @@
-# Meroser's IPTV📺
-此仓库 Fork From Meroser.
+# TV📺
+This Repo Fork From Meroser.
 
 
 ## 🏄‍♀️源地址
